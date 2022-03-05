@@ -1,3 +1,7 @@
+class Assets {
+  get ytLogo => 'assets/yt_logo_dark.png';
+}
+
 class User {
   final String username;
   final String profileImageUrl;
